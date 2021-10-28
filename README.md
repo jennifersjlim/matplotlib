@@ -3,7 +3,7 @@
 
 ## Speech Analysis
 ![speech analysis](https://user-images.githubusercontent.com/89895193/138986148-c04ae7f9-f567-473b-9323-ba6b3d6550b5.png)
-ysis.png)
+
 
 This visualization mainly analyzes the frequency of word usages within the speech delivered by the Associate Attorney General Tom Perrelli on the First 100 Days of Recovery Act at Law Enforcement Symposium on Violence Against Women. 5 words that were selected as part of the analysis were the following: violence, law, justice, victim, and country. 
 
